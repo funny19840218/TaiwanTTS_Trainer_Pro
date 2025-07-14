@@ -1,0 +1,15 @@
+# GUI
+PyQt5
+
+# Audio Processing
+sounddevice
+pyaudio
+scipy
+librosa
+pydub
+
+# AI & Machine Learning
+torch
+torchaudio
+TTS==0.22.0
+openai-whisper
